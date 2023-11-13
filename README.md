@@ -1,3 +1,3 @@
 # Hacking-Articles-Collection
 
-[Link](https://www.coursera.org/learn/manage-security-risks/lecture/P2mBw/welcome-to-module-2)
+[Link](https://www.youtube.com/watch?v=oXNsWwDMi8g)
