@@ -1,3 +1,1 @@
-# Hacking-Articles-Collection
-
-[Link](https://www.youtube.com/watch?v=oXNsWwDMi8g)
+[A Collection of many helpful Hacking Article]()
