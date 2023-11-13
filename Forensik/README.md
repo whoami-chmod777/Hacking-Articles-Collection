@@ -1,3 +1,0 @@
-# Digital Forensics
-
-[Comprehensive Guide on Autopsy Tool-Windows](https://www.hackingarticles.in/comprehensive-guide-on-autopsy-tool-windows/)
