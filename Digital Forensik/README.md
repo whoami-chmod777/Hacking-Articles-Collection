@@ -6,7 +6,7 @@
 <br></br>
 [Memory Forensics using Volatility Workbench](https://www.hackingarticles.in/memory-forensics-using-volatility-workbench/)
 <br></br>
-[]()
+[Python Serialization Vulnerabilities – Pickle](https://www.hackingarticles.in/python-serialization-vulnerabilities-pickle/)
 <br></br>
 []()
 <br></br>
