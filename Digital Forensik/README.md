@@ -14,7 +14,7 @@
 <br></br>
 [Memory Analysis for Process Injection](https://systemweakness.com/memory-analysis-for-process-injection-4f3284bff3fb)
 <br></br>
-[]()
+[Memory Analysis For Beginners With Volatility Coreflood Trojan: Part 1](https://infosecwriteups.com/memory-analysis-for-beginners-with-volatility-coreflood-trojan-part-1-89981433eeb6)
 <br></br>
 []()
 <br></br>
