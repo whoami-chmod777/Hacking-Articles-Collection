@@ -10,7 +10,7 @@
 <br></br>
 [Volatility 3 CheatSheet](https://blog.onfvp.com/post/volatility-cheatsheet/)
 <br></br>
-[Volatility-Memory Image Forensics](https://systemweakness.com/volatility-memory-image-forensics-74ecfea17c2f)
+[Volatility Memory Image Forensics](https://systemweakness.com/volatility-memory-image-forensics-74ecfea17c2f)
 <br></br>
 [Memory Analysis for Process Injection](https://systemweakness.com/memory-analysis-for-process-injection-4f3284bff3fb)
 <br></br>
