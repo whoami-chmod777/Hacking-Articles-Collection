@@ -22,7 +22,7 @@
 <br></br>
 [DeepBlueCLI – PowerShell Module for Threat Hunting](https://www.socinvestigation.com/deepbluecli-powershell-module-for-threat-hunting/)
 <br></br>
-[]()
+[Detecting Brute Force Attack - Wireshark](https://www.apt-secure.ca/2022/11/detecting-brute-force-attack-wireshark.html)
 <br></br>
 []()
 <br></br>
