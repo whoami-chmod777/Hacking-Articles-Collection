@@ -4,7 +4,7 @@
 <br></br>
 [Create Wordlists with Crunch](https://null-byte.wonderhowto.com/how-to/tutorial-create-wordlists-with-crunch-0165931/)
 <br></br>
-[]()
+[A Detailed Guide on Hydra](https://www.hackingarticles.in/a-detailed-guide-on-hydra/)
 <br></br>
 []()
 <br></br>
