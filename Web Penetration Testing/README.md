@@ -6,7 +6,7 @@
 <br></br>
 [How to Crack Passwords, Part 5 (Creating a Custom Wordlist with CeWL)](https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-passwords-part-5-creating-custom-wordlist-with-cewl-0158855/)
 <br></br>
-[]()
+[5 Ways to Directory Bruteforcing on Web Server](https://www.hackingarticles.in/5-ways-directory-bruteforcing-web-server/)
 <br></br>
 []()
 <br></br>
