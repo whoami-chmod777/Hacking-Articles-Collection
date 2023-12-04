@@ -6,7 +6,7 @@
 <br></br>
 [A Detailed Guide on Hydra](https://www.hackingarticles.in/a-detailed-guide-on-hydra/)
 <br></br>
-[]()
+[A Detailed Guide on Wfuzz](https://www.hackingarticles.in/a-detailed-guide-on-wfuzz/)
 <br></br>
 []()
 <br></br>
