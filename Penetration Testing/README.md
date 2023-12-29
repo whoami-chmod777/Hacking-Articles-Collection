@@ -10,13 +10,13 @@
 <br></br>
 [Active Directory Pentesting: Lab Setup](https://www.hackingarticles.in/active-directory-pentesting-lab-setup/)
 <br></br>
-[]()
+[Active Directory Penetration Testing](https://theredteamlabs.com/active-directory-penetration-testing/)
 <br></br>
-[]()
+[Creating Active Directory Labs for Blue and Red Teams](https://sec-consult.com/blog/detail/creating-active-directory-labs-for-blue-and-red-teams/)
 <br></br>
-[]()
+[Orange Cyberdefense Mindmap](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg)
 <br></br>
-[]()
+[GOAD - Pentest Active Directory LAB Project](https://github.com/Orange-Cyberdefense/GOAD)
 <br></br>
 []()
 <br></br>
