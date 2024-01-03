@@ -8,7 +8,7 @@
 <br></br>
 [5 Ways to Directory Bruteforcing on Web Server](https://www.hackingarticles.in/5-ways-directory-bruteforcing-web-server/)
 <br></br>
-[]()
+[What Is a Web Application Attack and how to Defend Against It](https://www.acunetix.com/websitesecurity/web-application-attack/)
 <br></br>
 []()
 <br></br>
