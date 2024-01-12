@@ -4,7 +4,7 @@
 <br></br>
 [SMB Relay Attacks and How to Prevent Them](https://tcm-sec.com/smb-relay-attacks-and-how-to-prevent-them/)
 <br></br>
-[]()
+[Kerberoasting your way in](https://medium.com/@Shorty420/kerberoasting-9108477279cc)
 <br></br>
 []()
 <br></br>
