@@ -8,7 +8,7 @@
 <br></br>
 [Token Impersonation Attack](https://securitytutorials.co.uk/token-impersonation-attack/)
 <br></br>
-[Token Impersonation Attack (HackingLoops](https://www.hackingloops.com/token-impersonation-attack/)
+[Token Impersonation Attack (HackingLoops)](https://www.hackingloops.com/token-impersonation-attack/)
 <br></br>
 []()
 <br></br>
