@@ -6,7 +6,7 @@
 <br></br>
 [Kerberoasting your way in](https://medium.com/@Shorty420/kerberoasting-9108477279cc)
 <br></br>
-[]()
+[Token Impersonation Attack](https://securitytutorials.co.uk/token-impersonation-attack/)
 <br></br>
 []()
 <br></br>
