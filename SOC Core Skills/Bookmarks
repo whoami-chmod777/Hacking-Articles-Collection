@@ -1,0 +1,47 @@
+
+https://www.blackhillsinfosec.com/blog/
+https://www.blackhillsinfosec.com/webcast-5-year-plan-infosec/
+
+https://play.backdoorsandbreaches.com/
+https://play.backdoorsandbreaches.com/play.backdoorsandbreaches.com-Engine-V1/App/
+https://www.activecountermeasures.com/category/malware-of-the-day/
+https://danielmiessler.com/p/tcpdump/
+https://chat.openai.com/c/ce7c1e1f-0521-48db-a092-def0a94f0f4e
+
+https://dev.maxmind.com/geoip/docs/databases/asn
+https://www.shodan.io/dashboard
+https://www.cloudflare.com/learning/security/glossary/bgp-hijacking/
+https://www.catchpoint.com/bgp-monitoring/bgp-hijacking
+https://www.vistax64.com/threads/fault-finding-charts.200959/
+https://attrition.org/misc/ee/protolol.txt
+
+https://en.wikipedia.org/wiki/Evil_bit
+https://en.wikipedia.org/wiki/Request_for_Comments
+https://en.wikipedia.org/wiki/IP_over_Avian_Carriers
+https://en.wikipedia.org/wiki/Shodan_(website)
+
+https://datatracker.ietf.org/doc/html/rfc793
+https://datatracker.ietf.org/doc/html/rfc1918
+
+
+# Books
+Network Intrusion Detection: An Analyst's Handbook (Judy Novak)
+https://www.amazon.de/-/en/Judy-Novak/dp/0735710082
+
+TCP/IP Illustrated I: The Protocols (Richard-Stevens)
+https://www.amazon.de/-/en/Kevin-Fall/dp/0321336313/ref=pd_sim_d_sccl_2_1/260-5285680-3032408?pd_rd_w=IT12d&content-id=amzn1.sym.d737b684-0342-40e8-9165-91db4ae28108&pf_rd_p=d737b684-0342-40e8-9165-91db4ae28108&pf_rd_r=CBE91GB087J18RBKVWR2&pd_rd_wg=ZZtwE&pd_rd_r=4555a6aa-98cd-4b18-814a-07f07cece5ce&pd_rd_i=0321336313&psc=1
+
+TCP/IP Illustrated II: The Implementation (Richard-Stevens)
+https://www.amazon.de/-/en/W-Richard-Stevens/dp/020163354X
+
+TCP/IP Illustrated III: TCP for Transactions, HTTP, NNTP, and the UNIX Domain Protocols (Richard-Stevens)
+https://www.amazon.de/-/en/W-R-Stevens/dp/0201634953
+
+
+# Labs
+
+tcpdump
+https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/TCPDump/TCPDump.md
+
+Wireshark
+https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Wireshark/Wireshark.md
