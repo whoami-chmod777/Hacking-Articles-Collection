@@ -6,7 +6,7 @@
 <br></br>
 [Wireshark](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Wireshark/Wireshark.md)
 <br></br>
-[]()
+[Linux CLI](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/LinuxCLI/LinuxCLI.md)
 <br></br>
 []()
 <br></br>
