@@ -16,7 +16,7 @@
 <br></br>
 [Memory Analysis](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Memory/MemoryAnalysis.md)
 <br></br>
-[]()
+[RITA](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/RITA/RITA.md)
 <br></br>
 []()
 <br></br>
