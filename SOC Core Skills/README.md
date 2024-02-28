@@ -20,7 +20,7 @@
 <br></br>
 [Domain Log Review](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/DomainLogReview/DomainLogReview.md)
 <br></br>
-[]()
+[Sysmon](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Sysmon/Sysmon.md)
 <br></br>
 []()
 <br></br>
