@@ -1,5 +1,15 @@
 ## This 16-hour information security training course will cover the core  security skills all Security Operation Center (SOC) analysts need to  have. These are the skills that all Black Hills Information Security  (BHIS) SOC team members need to have.
 
+
+## Intro To SOC
+
+
+## Intro To Security
+
+
+## Cyber Deception/Active Defense
+
+
 [TCPDump](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/TCPDump/TCPDump.md)
 <br></br>
 [A tcpdump Tutorial with Examples](https://danielmiessler.com/p/tcpdump/)
