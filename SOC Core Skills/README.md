@@ -2,37 +2,35 @@
 
 ## Intro To SOC
 
-
-## Intro To Security
-
-
-## Cyber Deception/Active Defense
-
 [Linux CLI](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/LinuxCLI/LinuxCLI.md)
+<br></br>
+[Memory Analysis](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Memory/MemoryAnalysis.md)
 <br></br>
 [TCPDump](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/TCPDump/TCPDump.md)
 <br></br>
 [A tcpdump Tutorial with Examples](https://danielmiessler.com/p/tcpdump/)
 <br></br>
-[Wireshark](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Wireshark/Wireshark.md)
-<br></br>
-
 [Windows CLI](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/WindowsCLI/WindowsCLI.md)
 <br></br>
-[DeepBlueCLI](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/deepbluecli/DeepBlueCLI.md)
-<br></br>
-[Firewall Log Review](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/FirewallLog/FirewallLog.md)
-<br></br>
-[Memory Analysis](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Memory/MemoryAnalysis.md)
+[Wireshark](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Wireshark/Wireshark.md)
 <br></br>
 [RITA](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/RITA/RITA.md)
 <br></br>
+[DeepBlueCLI](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/deepbluecli/DeepBlueCLI.md)
+<br></br>
 [Domain Log Review](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/DomainLogReview/DomainLogReview.md)
+<br></br>
+[Firewall Log Review](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/FirewallLog/FirewallLog.md)
+<br></br>
+
+
+## Intro To Security
+
+[Bluespawn](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/bluespawn/Bluespawn.md)
 <br></br>
 [Sysmon](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Sysmon/Sysmon.md)
 <br></br>
-[Bluespawn](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/bluespawn/Bluespawn.md)
-<br></br>
+
 []()
 <br></br>
 []()
@@ -73,6 +71,10 @@
 <br></br>
 []()
 <br></br>
+
+
+## Cyber Deception/Active Defense
+
 []()
 <br></br>
 []()
