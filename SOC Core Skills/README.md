@@ -22,6 +22,8 @@
 <br></br>
 [Domain Log Review](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/DomainLogReview/DomainLogReview.md)
 <br></br>
+[Velociraptor](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Velociraptor/Velociraptor.md)
+<br></br>
 [Firewall Log Review](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/FirewallLog/FirewallLog.md)
 <br></br>
 
@@ -33,8 +35,6 @@
 [Sysmon](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Sysmon/Sysmon.md)
 <br></br>
 
-[]()
-<br></br>
 []()
 <br></br>
 []()
