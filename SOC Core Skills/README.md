@@ -1,4 +1,6 @@
 ## This 16-hour information security training course will cover the core  security skills all Security Operation Center (SOC) analysts need to  have. These are the skills that all Black Hills Information Security  (BHIS) SOC team members need to have.
+[]()
+<br></br>
 
 
 ## Intro To SOC
