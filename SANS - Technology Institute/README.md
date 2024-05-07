@@ -1,6 +1,6 @@
 ## SANS Cyber Security Blog - See what topics are top of mind for the SANS community here in our blog
 
-[SANS - Internet Storm Center Diaries](https://isc.sans.edu/diaryarchive.html)
+[SANS Internet Storm Center Diaries](https://isc.sans.edu/diaryarchive.html)
 <br></br>
 [SANS Open-Source Intelligence (OSINT)](https://www.sans.org/blog/?focus-area=open-source-intelligence)
 <br></br>
