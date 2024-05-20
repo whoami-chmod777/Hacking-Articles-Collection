@@ -4,7 +4,7 @@
 <br></br>
 [Windows Event Logs for Red Teams](https://www.blackhillsinfosec.com/windows-event-logs-for-red-teams/)
 <br></br>
-[]()
+[A Sysmon Event ID Breakdown – Updated to Include 29!!](https://www.blackhillsinfosec.com/a-sysmon-event-id-breakdown/)
 <br></br>
 []()
 <br></br>
