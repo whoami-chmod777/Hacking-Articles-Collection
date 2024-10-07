@@ -8,6 +8,18 @@
 <br></br>
 []()
 <br></br>
+[September]()
+<br></br>
+[Tool update: mac-robber.py and le-hex-to-ip.py](https://isc.sans.edu/diary/Tool+update+macrobberpy+and+lehextoippy/31310/)
+<br></br>
+[OSINT - Image Analysis or More Where, When, and Metadata](https://isc.sans.edu/diary/OSINT+Image+Analysis+or+More+Where+When+and+Metadata+Guest+Diary/31298/)
+<br></br>
+[DNS Reflection Update and Odd Corrupted DNS Requests](https://isc.sans.edu/diary/DNS+Reflection+Update+and+Odd+Corrupted+DNS+Requests/31296/)
+<br></br>
+[Exploitation of RAISECOM Gateway Devices Vulnerability CVE-2024-7120](https://isc.sans.edu/diary/Exploitation+of+RAISECOM+Gateway+Devices+Vulnerability+CVE20247120/31292/)
+<br></br>
+[]()
+<br></br>
 []()
 <br></br>
 []()
