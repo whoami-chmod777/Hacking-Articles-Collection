@@ -24,9 +24,9 @@
 <br></br>
 [Troubleshooting with tcpdump](https://2018-agility-tcpdump-and-wireshark.readthedocs.io/en/latest/class1/class1.html)
 <br></br>
-[]()
+[Wireshark Capture Filters](https://wiki.wireshark.org/CaptureFilters)
 <br></br>
-[]()
+[Wireshark Display Filters](https://wiki.wireshark.org/DisplayFilters)
 <br></br>
 []()
 <br></br>
