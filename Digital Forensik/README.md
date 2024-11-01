@@ -24,7 +24,7 @@
 <br></br>
 [Detecting Brute Force Attack - Wireshark](https://www.apt-secure.ca/2022/11/detecting-brute-force-attack-wireshark.html)
 <br></br>
-[]()
+[Evidence Gathering And Chain Custody: Informative Content About Gathering Of Evidence](https://financialcrimeacademy.org/evidence-gathering-and-chain-custody/)
 <br></br>
 []()
 <br></br>
