@@ -26,7 +26,7 @@
 <br></br>
 [Evidence Gathering And Chain Custody: Informative Content About Gathering Of Evidence](https://financialcrimeacademy.org/evidence-gathering-and-chain-custody/)
 <br></br>
-[]()
+[Windows Registry Analysis with Registry Explorer](https://snynr.medium.com/windows-registry-analysis-with-registry-explorer-f75b8339a1bc)
 <br></br>
 []()
 <br></br>
