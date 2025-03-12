@@ -6,7 +6,7 @@
 <br></br>
 [A Sysmon Event ID Breakdown – Updated to Include 29!!](https://www.blackhillsinfosec.com/a-sysmon-event-id-breakdown/)
 <br></br>
-[]()
+[SPF, DKIM und DMARC einrichten: Bedeutung und Anleitung](https://www.mailjet.com/de/blog/zustellbarkeit/dkim-spf-dmarc/)
 <br></br>
 []()
 <br></br>
