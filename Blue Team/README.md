@@ -8,6 +8,20 @@
 <br></br>
 [SPF, DKIM und DMARC einrichten: Bedeutung und Anleitung](https://www.mailjet.com/de/blog/zustellbarkeit/dkim-spf-dmarc/)
 <br></br>
+[Was sind DMARC, DKIM und SPF](https://www.cloudflare.com/de-de/learning/email-security/dmarc-dkim-spf/)
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
 []()
 <br></br>
 []()
