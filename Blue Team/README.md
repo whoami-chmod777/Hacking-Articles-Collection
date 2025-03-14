@@ -10,6 +10,20 @@
 <br></br>
 [Was sind DMARC, DKIM und SPF](https://www.cloudflare.com/de-de/learning/email-security/dmarc-dkim-spf/)
 <br></br>
+[Beginners guide to Computer Virus](https://www.hackercoolmagazine.com/beginners-guide-to-computer-virus/)
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
 []()
 <br></br>
 []()
