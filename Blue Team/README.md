@@ -6,13 +6,7 @@
 <br></br>
 [A Sysmon Event ID Breakdown – Updated to Include 29!!](https://www.blackhillsinfosec.com/a-sysmon-event-id-breakdown/)
 <br></br>
-[SPF, DKIM und DMARC einrichten: Bedeutung und Anleitung](https://www.mailjet.com/de/blog/zustellbarkeit/dkim-spf-dmarc/)
-<br></br>
-[Was sind DMARC, DKIM und SPF](https://www.cloudflare.com/de-de/learning/email-security/dmarc-dkim-spf/)
-<br></br>
 [Beginners guide to Computer Virus](https://www.hackercoolmagazine.com/beginners-guide-to-computer-virus/)
-<br></br>
-[A Complete Guide to Phishing Simulation with Gophish](https://redfoxsec.com/blog/phishing-simulations-with-gophish/)
 <br></br>
 []()
 <br></br>
