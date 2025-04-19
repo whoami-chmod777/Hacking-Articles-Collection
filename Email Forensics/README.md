@@ -6,6 +6,31 @@
 <br></br>
 [A Complete Guide to Phishing Simulation with Gophish](https://redfoxsec.com/blog/phishing-simulations-with-gophish/)
 <br></br>
+[Email Forensics](https://blog.cyber5w.com/email_forensics)
+<br></br>
 []()
 <br></br>
 []()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
+[]()
+<br></br>
