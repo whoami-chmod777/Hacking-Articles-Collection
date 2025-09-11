@@ -8,8 +8,6 @@
 <br></br>
 [Email Forensics](https://blog.cyber5w.com/email_forensics)
 <br></br>
-[What Is Phishing?](https://www.phishing.org/what-is-phishing)
-<br></br>
 []()
 <br></br>
 []()
