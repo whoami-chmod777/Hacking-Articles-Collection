@@ -8,9 +8,9 @@
 <br></br>
 [Email Forensics](https://blog.cyber5w.com/email_forensics)
 <br></br>
-[]()
+[How DKIM SPF & DMARC Work to Prevent Email Spoofing and Phishing](https://www.socinvestigation.com/what-are-spf-dkim-and-dmarc-protection-against-spoofing-and-phishing/)
 <br></br>
-[]()
+[Email Header Analysis – Use Cases Including SPF, DKIM & DMARC](https://www.socinvestigation.com/email-header-analysis-use-cases-including-spf-dkim-dmarc/)
 <br></br>
 []()
 <br></br>
