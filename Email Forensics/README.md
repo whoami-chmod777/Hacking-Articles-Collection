@@ -18,7 +18,7 @@
 <br></br>
 [Emotet Malware with Microsoft OneNote- How to Block emails based on File attachment extension in Office 365](https://www.socinvestigation.com/emotet-malware-with-microsoft-onenote-how-to-block-emails-based-on-file-attachment-extension-in-office-365/)
 <br></br>
-[]()
+[How DMARC is used to reduce spoofed emails ?](https://www.socinvestigation.com/how-dmarc-is-used-to-reduce-spoofed-emails/)
 <br></br>
 []()
 <br></br>
