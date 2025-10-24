@@ -12,11 +12,11 @@
 <br></br>
 [Email Header Analysis – Use Cases Including SPF, DKIM & DMARC](https://www.socinvestigation.com/email-header-analysis-use-cases-including-spf-dkim-dmarc/)
 <br></br>
-[]()
+[How Email Encryption Protects Your Privacy](https://www.socinvestigation.com/how-email-encryption-protects-your-privacy/)
 <br></br>
-[]()
+[How To Check Malicious Phishing Links](https://www.socinvestigation.com/how-to-check-malicious-phishing-links/)
 <br></br>
-[]()
+[Emotet Malware with Microsoft OneNote- How to Block emails based on File attachment extension in Office 365](https://www.socinvestigation.com/emotet-malware-with-microsoft-onenote-how-to-block-emails-based-on-file-attachment-extension-in-office-365/)
 <br></br>
 []()
 <br></br>
