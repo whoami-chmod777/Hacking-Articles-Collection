@@ -24,7 +24,7 @@
 <br></br>
 [Smishing Is SMS Phishing](https://www.msvu.ca/campus-life/campus-services/it-services/it-security/phishing/smishing/)
 <br></br>
-[]()
+[Phishing Red Flags](https://www.msvu.ca/campus-life/campus-services/it-services/it-security/phishing/phishing-red-flags/)
 <br></br>
 []()
 <br></br>
