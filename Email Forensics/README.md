@@ -30,7 +30,7 @@
 <br></br>
 [Tax, CRA, and Service Canada Scams](https://www.msvu.ca/campus-life/campus-services/it-services/it-security/phishing/cra-and-service-canada-scams/)
 <br></br>
-[]()
+[Whaling Email Scams](https://www.msvu.ca/campus-life/campus-services/it-services/it-security/phishing/gift-card-and-1-900-scam-phishing/)
 <br></br>
 []()
 <br></br>
