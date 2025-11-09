@@ -38,7 +38,7 @@
 <br></br>
 [Fraud Recovery](https://www.msvu.ca/campus-life/campus-services/it-services/it-security/cybersafety/fraud-recovery/)
 <br></br>
-[]()
+[Job Scam Prevention Tips](https://www.msvu.ca/campus-life/campus-services/it-services/it-security/cybersafety/job-scam-prevention-tips/)
 <br></br>
 []()
 <br></br>
