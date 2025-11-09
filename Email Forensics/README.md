@@ -40,7 +40,7 @@
 <br></br>
 [Job Scam Prevention Tips](https://www.msvu.ca/campus-life/campus-services/it-services/it-security/cybersafety/job-scam-prevention-tips/)
 <br></br>
-[]()
+[Internet Job Scams](https://www.msvu.ca/campus-life/campus-services/it-services/it-security/cybersafety/internet-job-scams/)
 <br></br>
 []()
 <br></br>
