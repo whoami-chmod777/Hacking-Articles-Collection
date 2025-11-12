@@ -42,9 +42,9 @@
 <br></br>
 [Internet Job Scams](https://www.msvu.ca/campus-life/campus-services/it-services/it-security/cybersafety/internet-job-scams/)
 <br></br>
-[]()
+[Cooking Malicious Phishing Email Headers with CyberChef](https://www.socinvestigation.com/cooking-malicious-phishing-email-headers-with-cyberchef/)
 <br></br>
-[]()
+[DnsTwist Tool – Proactive Approach for Handling Phishing Cases](https://www.socinvestigation.com/dnstwist-tool-proactive-approach-for-handling-phishing-cases/)
 <br></br>
 []()
 <br></br>
